@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
